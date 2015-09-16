@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">CommonLib</string>
+<!--     <string name="gps_status">打开GPS</string> -->
+<!--     <string name="gps_message">为了更精确的定位，请打开手机GPS</string> -->
+<!--     <string name="gps_setting">设置</string> -->
+<!--     <string name="gps_cancel">跳过</string> -->
+    
+<!--     <string name="net_status">网络连接</string> -->
+<!--     <string name="net_failure">手机没有连接wifi网络</string> -->
+<!--     <string name="delete_cancel">取消</string> -->
+<!--     <string name="net_setting">设置</string> -->
+
+<!--     <string name="current_version">当前版本：</string> -->
+<!--     <string name="new_version">, 发现新版本:</string> -->
+<!--     <string name="is_update">, 是否更新?</string> -->
+<!--     <string name="app_update">软件更新</string> -->
+<!--     <string name="not_update">暂不更新</string> -->
+<!--     <string name="downing">正在下载</string> -->
+<!--      <string name="please_wait">请稍候…</string> -->
+<!--     <string name="app_version_update_configm">马上升级</string> -->
+<!--     <string name="app_version_update_cacel">稍后再说</string> -->
+    
+</resources>
